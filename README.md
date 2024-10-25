@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **harsh.mishra.332003@gmail.com**
 
-- ⚡ Fun fact **Did you know that regular exercise can boost your brain power? As a BTech CSE student, staying fit can actually help you improve your focus and problem-solving skills. So, keep hitting the gym or going for those runs—it’s not just great for your body but for your coding skills too! Just remember, moderation is key, and don’t forget to study! 😄**
+- ⚡ Fun fact : **Did you know that regular exercise can boost your brain power? As a BTech CSE student, staying fit can actually help you improve your focus and problem-solving skills. So, keep hitting the gym or going for those runs—it’s not just great for your body but for your coding skills too! Just remember, moderation is key, and don’t forget to study! 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
