@@ -1,5 +1,5 @@
+<img align="center" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FRolandAmini%2FRolandAmini&psig=AOvVaw1x7-VqRQYSc1qinl0mtow1&ust=1730121115179000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDUlcvRrokDFQAAAAAdAAAAABAh">
 
-![logo](https://github.com/Harshmishra001/Harshmishra001/blob/main/Banner.png.png)
 <h1 align="center">Hi 👋, I'm Harsh Kumar Mishra</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
