@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently Studying B-Tech in Computer Science Engineering [XenoPay(Paytm Wallet)](https://xenopay-user-app.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://harsh-portfolio-chi.vercel.app/](https://harsh-portfolio-chi.vercel.app/)
+
 
 - 📫 How to reach me **harsh.mishra.332003@gmail.com**
 
